@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/testadmin/static/js/main.cf2c1510.js",
+    "main.js": "/testadmin/static/js/main.a30e9425.js",
     "mainapp.css": "/testadmin/static/css/mainapp.16404b1a.chunk.css",
     "mainapp.js": "/testadmin/static/js/mainapp.cd4eb061.chunk.js",
     "theme0.css": "/testadmin/static/css/theme0.8bb6f4e6.chunk.css",
@@ -8,7 +8,7 @@
     "theme1.css": "/testadmin/static/css/theme1.07e07157.chunk.css",
     "theme1.js": "/testadmin/static/js/theme1.962165b2.chunk.js",
     "App.css": "/testadmin/static/css/App.d3e95c9d.chunk.css",
-    "App.js": "/testadmin/static/js/App.49e1c6bf.chunk.js",
+    "App.js": "/testadmin/static/js/App.19362b61.chunk.js",
     "i18n/en-common-json.js": "/testadmin/static/js/i18n/en-common-json.d2beb738.chunk.js",
     "i18n/en-errors-json.js": "/testadmin/static/js/i18n/en-errors-json.1705e4ff.chunk.js",
     "i18n/en-nono-json.js": "/testadmin/static/js/i18n/en-nono-json.23472beb.chunk.js",
@@ -23,7 +23,7 @@
     "static/js/182.2a3d4a24.chunk.js": "/testadmin/static/js/182.2a3d4a24.chunk.js",
     "static/js/776.e3eb3434.chunk.js": "/testadmin/static/js/776.e3eb3434.chunk.js",
     "index.html": "/testadmin/index.html",
-    "main.cf2c1510.js.map": "/testadmin/static/js/main.cf2c1510.js.map",
+    "main.a30e9425.js.map": "/testadmin/static/js/main.a30e9425.js.map",
     "mainapp.16404b1a.chunk.css.map": "/testadmin/static/css/mainapp.16404b1a.chunk.css.map",
     "mainapp.cd4eb061.chunk.js.map": "/testadmin/static/js/mainapp.cd4eb061.chunk.js.map",
     "theme0.8bb6f4e6.chunk.css.map": "/testadmin/static/css/theme0.8bb6f4e6.chunk.css.map",
@@ -31,7 +31,7 @@
     "theme1.07e07157.chunk.css.map": "/testadmin/static/css/theme1.07e07157.chunk.css.map",
     "theme1.962165b2.chunk.js.map": "/testadmin/static/js/theme1.962165b2.chunk.js.map",
     "App.d3e95c9d.chunk.css.map": "/testadmin/static/css/App.d3e95c9d.chunk.css.map",
-    "App.49e1c6bf.chunk.js.map": "/testadmin/static/js/App.49e1c6bf.chunk.js.map",
+    "App.19362b61.chunk.js.map": "/testadmin/static/js/App.19362b61.chunk.js.map",
     "with-aside.cba088f8.chunk.js.map": "/testadmin/static/js/with-aside.cba088f8.chunk.js.map",
     "user.list.39c1d5ba.chunk.js.map": "/testadmin/static/js/user.list.39c1d5ba.chunk.js.map",
     "433.885230d0.chunk.js.map": "/testadmin/static/js/433.885230d0.chunk.js.map",
@@ -41,6 +41,6 @@
     "776.e3eb3434.chunk.js.map": "/testadmin/static/js/776.e3eb3434.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.cf2c1510.js"
+    "static/js/main.a30e9425.js"
   ]
 }
