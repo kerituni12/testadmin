@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkadminn=globalThis.webpackChunkadminn||[]).push([[742],{4917:r=>{r.exports=JSON.parse('{"error":"This is error"}')}}]);

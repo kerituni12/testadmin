@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkadminn=globalThis.webpackChunkadminn||[]).push([[880],{1025:(a,n,s)=>{s.r(n),s.d(n,{default:()=>h});const h={}}}]);
+//# sourceMappingURL=theme1.962165b2.chunk.js.map

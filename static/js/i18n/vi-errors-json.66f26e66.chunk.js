@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkadminn=globalThis.webpackChunkadminn||[]).push([[254],{8092:a=>{a.exports=JSON.parse('{"error":"Day la error"}')}}]);
