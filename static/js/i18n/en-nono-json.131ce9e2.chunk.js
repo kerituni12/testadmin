@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadminn=self.webpackChunkadminn||[]).push([[903],{7435:function(e){e.exports=JSON.parse('{"add":"Th\xeam","create_new":"T\u1ea1o M\u1edbi"}')}}]);

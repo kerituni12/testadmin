@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadminn=self.webpackChunkadminn||[]).push([[122],{9384:function(e){e.exports=JSON.parse('{"add":"Add","create_new":"Create New"}')}}]);
